@@ -1,2 +1,2 @@
 # ChallengedTexting
-Texting for the deafand blind
+Texting for the deaf and blind
